@@ -1,4 +1,31 @@
 html {
   font-size: 11;
   background-image: url("background.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  font-family: sans-serif;
+  align: center;
+  text-align: center;
+  position: relative;
+}
+
+.h1 {
+  font-size: 30;
+}
+
+div.gallery {
+  float: left;
+}
+
+
+div.gallery img {
+  padding: 2rem;
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+
 }
