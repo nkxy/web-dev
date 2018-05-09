@@ -7,3 +7,5 @@ Static HTML Webpage that displays blogstyle information about my experience with
 #2 Working Sounds 
 HTML Webpage with Javascript that plays sounds based on key presses, recorded in The Funcken Cafe in St. Jeromes, at the University of Waterloo. 
  
+#3 Photo Scroll 
+A scrolling page filled with photos I took from vacation.
